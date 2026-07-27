@@ -1,3 +1,7 @@
+## 📊 Dashboard Preview
+
+<img width="1327" height="746" alt="Dashboard" src="https://github.com/user-attachments/assets/420b805c-ced2-4b27-8473-4cb900492d4b" />
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
