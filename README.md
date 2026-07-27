@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 # 📊 HR Analytics Employee Attrition Dashboard
 
 An **End-to-End Data Analytics Project** that analyzes employee attrition using **Python, SQL, Power BI, and DAX**. This project transforms raw HR data into meaningful business insights through data cleaning, exploratory analysis, SQL queries, and an interactive Power BI dashboard.
