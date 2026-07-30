@@ -1,6 +1,7 @@
 ## 📊 Dashboard Preview
 
-<img width="1327" height="746" alt="Dashboard" src="https://github.com/user-attachments/assets/420b805c-ced2-4b27-8473-4cb900492d4b" />
+<img width="1372" height="771" alt="Dashboard" src="https://github.com/user-attachments/assets/68c91e71-1aa0-4e46-a5f7-5be71c431343" />
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
